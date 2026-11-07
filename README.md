@@ -3,7 +3,7 @@
 <h3 align="center">Aspiring AI/ML Engineer | IIIT Ranchi</h3>
 
 <p align="center">
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/saumik-yadav-44502a3b0">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/Saumik-Yadav">
@@ -116,4 +116,10 @@ A Machine Learning project focused on personality-based Hogwarts house predictio
 ## GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Sa
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api?username=Saumik-Yadav&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+  />
+  <img height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=Saumik-Yadav&layout=compact&theme=transparent&hide_border=true"
+  />
+</p>
