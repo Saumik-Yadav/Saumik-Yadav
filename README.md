@@ -87,7 +87,7 @@ An end-to-end Machine Learning project that predicts student exam performance us
 
 **Tech:** Python, Pandas, NumPy, Scikit-learn, XGBoost, FastAPI, HTML, CSS
 
-[View Repository](YOUR_STUDENT_PROJECT_REPOSITORY)
+[View Repository](https://github.com/Saumik-Yadav/student-exam-score-predictor)
 
 ### 2. WizPersona — Harry Potter Personality Prediction
 
